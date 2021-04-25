@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me : Ping me at: ayusharora009@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am a Software Nerd.
+
 -->
 
 <!---
